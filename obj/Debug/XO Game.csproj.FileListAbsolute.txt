@@ -1,0 +1,10 @@
+E:\C++ Projects\XO Game\bin\Debug\XO Game.exe.config
+E:\C++ Projects\XO Game\bin\Debug\XO Game.exe
+E:\C++ Projects\XO Game\bin\Debug\XO Game.pdb
+E:\C++ Projects\XO Game\obj\Debug\XO Game.csproj.AssemblyReference.cache
+E:\C++ Projects\XO Game\obj\Debug\XO_Game.Form1.resources
+E:\C++ Projects\XO Game\obj\Debug\XO_Game.Properties.Resources.resources
+E:\C++ Projects\XO Game\obj\Debug\XO Game.csproj.GenerateResource.cache
+E:\C++ Projects\XO Game\obj\Debug\XO Game.csproj.CoreCompileInputs.cache
+E:\C++ Projects\XO Game\obj\Debug\XO Game.exe
+E:\C++ Projects\XO Game\obj\Debug\XO Game.pdb
